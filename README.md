@@ -65,9 +65,10 @@ This project was built to demonstrate:
 ## 📸 Preview
 <img width="1426" height="568" alt="image" src="https://github.com/user-attachments/assets/05dcf821-49e8-432d-9417-ee4ab5a2b8b6" />
 
-<img width="377" height="586" alt="image" src="https://github.com/user-attachments/assets/c7b39c8e-6c83-447f-84b5-5f724f85918e" />
+<img width="375" height="668" alt="image" src="https://github.com/user-attachments/assets/8838ccbc-fbb3-4ef8-a49c-9483bfdb51f7" />
 
-<img width="374" height="563" alt="image" src="https://github.com/user-attachments/assets/5b13a66f-b10c-473d-8e97-dc1f35fb330e" />
+
+<img width="376" height="664" alt="image" src="https://github.com/user-attachments/assets/2fb096c8-196b-4232-9bd9-0b6b5ca06e2e" />
 
 
 
